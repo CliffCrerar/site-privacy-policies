@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "name": "policy-learn-transact-sq",
+    "alias": "policy-learn-transact-sql",
+    "builds": [{
+            "src": "*.css",
+            "use": "@now/static"
+        },
+        {
+            "src": "**/*.md",
+            "use": "@now/md",
+            "config": {
+                "title": "Policy learn-transact-sql.tk",
+                "language": "en",
+                "meta": [{ "name": "description", "content": "Privacy policy" }],
+                "css": "/style.css"
+            }
+        }
+    ]
+}
