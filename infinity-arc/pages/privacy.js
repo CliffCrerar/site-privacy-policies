@@ -1,11 +1,12 @@
 import Layout from 'layout';
-import MnextMarkdown from 'static/md.js';
-import md from 'component/privacy.md'
+import MarkDownReader from 'static/md';
 
 const Privacy = () =>{
     return(
     <Layout>
-        <MnextMarkdown src={md}/>
+        <div>this</div>
+        {/* <MarkDownReader></MarkDownReader> */}
+        <MarkDownReader src={}
     </Layout>)
 }
 

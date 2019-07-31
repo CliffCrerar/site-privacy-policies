@@ -1,6 +1,6 @@
 import Layout from 'layout'
 
-const Landing = () => {
+function Landing() {
 
   return (
     <Layout>
