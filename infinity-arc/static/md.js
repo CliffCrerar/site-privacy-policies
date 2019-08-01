@@ -21,6 +21,7 @@ md.use( markdownItAttrs, {
 } );
 
 function MnextMarkdown( {source} ) {
+
 	return <ReactMarkdown source={md.render( source )} escapeHtml={false} />
 }
 

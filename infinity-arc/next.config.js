@@ -1,17 +1,40 @@
 process.env.NODE_PATH = './';
-// const withPlugins = require('next-compose-plugins');
-// const withSourceMaps = require('@zeit/next-source-maps');
-// const withCSS = require('@zeit/next-css');
+console.log(process);
+
+const withPlugins = require('next-compose-plugins');
+const withSourceMaps = require('@zeit/next-source-maps');
+const withCSS = require('@zeit/next-css');
+const images = require('next-images');
+const nextRuntimeDotenv = require('next-runtime-dotenv')
 //const marked = require("marked");
-//const renderer = new marked.Renderer();
 
 //const nextConf = {}
 
+const nextPlugins = [withSourceMaps, withCSS, withSourceMaps, images, nextRuntimeDotenv]
 
+const isProd = process.NODE_PATH === 'production'
+nextConf = {
+  assetPrefix: isProd ? 'https://cdn.mydomain.com' : '',
+  distDir: isProd ? 'build' : '.next',
+  webpack: (config, options) => {
+    // path: '.env',
+    config.module.rules.push({ test: /\.md$/, use: 'raw-loader' });
+    {
+      test: /\.md$/,
+      use: [{loader: "html-loader"},{loader: "markdown-loader",options: {}}]},
+    public= [
+      'MY_API_URL'
+    ];
+      server= [
+        'GITHUB_TOKEN'
+      ]
+    // modify the `config` here
 
-module.exports = {};
+    return config;
+  },
+};
 
-
+module.exports = withPlugins(nextPlugins, nextConf);
 
 //        return config;
 
