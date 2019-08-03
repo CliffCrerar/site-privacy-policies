@@ -1,6 +1,7 @@
 import React, { Children } from 'react';
 import Head from 'next/head';
 import Link from 'next/link';
+import Footer from './footer';
 import router, { withRouter, useRouter } from 'next/router'
 console.log('Router: ', router);
 //import 'static/bootstrap.min.css';
@@ -21,6 +22,7 @@ const AppHead = () => (
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"></meta>
         <link rel="icon" type="image/png" href={require('static/urls').favicon} />
         <link rel="stylesheet" href="static/bootstrap.min.css" />
+        <link rel="stylesheet" href="static/css/global.css" />
         <style jsx global>{`
             
             `}
@@ -45,6 +47,23 @@ const ActiveLink = ({ router, children, ...props }) => {
     return <Link {...props}>{React.cloneElement(child, { className })}</Link>;
 };
 
+
+const NavLinks = () => {
+    const Links = routerTable.map(link => {
+        return (
+            <li className="nav-item" key={'navlinks-' + link.route}>
+                <Link href={link.route} >
+                    <a className="nav-link" title={link.display}>{link.display}</a>
+                </Link>
+            </li>
+        )
+    });
+    return (
+        <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
+            {Links}
+        </ul>
+    )
+}
 
 
 const Layout = (props) => {
@@ -74,43 +93,22 @@ const Layout = (props) => {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="collapsibleNavId">
-                    <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
-                        <li className="nav-item">
-                            <Link href="/" >
-                                <a className="nav-link" title="Policies and Terms of Use">Home <SrOnly /></a>
-                            </Link>
-                        </li>
-                        <li className="nav-item">
-                            <Link href="/privacy" >
-                                <a className="nav-link" title="Privacy Policy">Privacy Policy</a>
-                            </Link>
-                        </li>
-                        <li className="nav-item">
-                            <Link href="/terms" >
-                                <a className="nav-link" title="Terms of Use">Terms of Use</a>
-                            </Link>
-                        </li>
-                        <li className="nav-item">
-                            <Link href="/confidentiality" >
-                                <a className="nav-link" title="Confidentiality">Confiidentiality</a>
-                            </Link>
-                        </li>
-                    </ul>
+                    {NavLinks}
                 </div>
             </nav>
             <div className="page-title">
                 <div className="w-100 p-5 bg-secondary">
-                <h1>{routerTable.filter(row=>'/'.concat(row.route)===useRouter().route)[0].display}</h1>
-                
+                    <h1>{routerTable.filter(row => row.route === useRouter().route)[0].display}</h1>
+
                 </div>
             </div>
             <main className="container p-5">
                 <div className="m-5">
-            {props.children}
-            </div>
+                    {props.children}
+                </div>
             </main>
-            
-            
+            <Footer />
+
         </React.Fragment>
     )
 }

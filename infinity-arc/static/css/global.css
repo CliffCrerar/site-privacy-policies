@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
+body {
+    background-color: var(--light)
+}
+
+.text-container {
+    --tc-padding: 10vw;
+    padding: 0 var(--tc-padding) 0 var(--tc-padding) !important;
+}
+
+p,
+li {
+    text-align: justify !important;
+}
+
+;
+@media screen and (max-width: 800px) {
+    .text-container {
+        --tc-padding: 7vw;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .text-container {
+        --tc-padding: 5vw;
+    }
+    h1 {
+        font-size: 2.0em !important;
+    }
+    h2 {
+        font-size: 1.5em !important;
+    }
+    p,
+    li {
+        font-size: 0.8em !important;
+    }
+}
+
+@media screen and (max-width: 414px) {
+    h1 {
+        font-size: 1.5em !important;
+    }
+    h2 {
+        font-size: 1.2em !important;
+    }
+    p,
+    li {
+        font-size: 0.6em !important;
+    }
+    .text-container {
+        --tc-padding: 0vw;
+        padding: 0;
+    }
+}

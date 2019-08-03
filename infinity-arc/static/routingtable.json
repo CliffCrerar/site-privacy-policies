@@ -1,1 +1,38 @@
-[{"route":"","display":"Polcies, terms and agreements"},{"route":"/","display":"Jou ma"},{"route":"privacy","display":"Privacy Policy"},{"route":"terms","display":"Terms of Use"},{"route":"confidentiality","display":"Confidentiality"}]
+[
+    {
+        "route": "",
+        "display": "Policies, terms and disclosures"
+    },
+    {
+        "route": "/",
+        "display": "Polcies, terms and disclosures"
+    },
+    {
+        "route": "/privacy",
+        "display": "Privacy Policy"
+    },
+    {
+        "route": "/terms",
+        "display": "Terms of Use policy"
+    },
+    {
+        "route": "/confidentiality",
+        "display": "Confidentiality Policy"
+    },
+    {
+        "route":"/cookies-policy",
+        "display": "Cookies Policy"
+    },
+    {
+        "route": "/disclaimer",
+        "display": "Disclaimer"
+    },
+    {
+        "route":"/terms-and-conditions",
+        "display": "Terms and Conditions"
+    },
+    {
+        "route":"/terms-of-use",
+        "display": "Terms of Use"
+    }
+]
