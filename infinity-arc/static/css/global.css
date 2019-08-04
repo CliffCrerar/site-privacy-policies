@@ -1,6 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
 body {
-    background-color: var(--light)
+    box-sizing: border-box;
+    background-color: var(--light);
+    word-break: break-word !important;
+    font-kerning: auto !important;
+    font-variant: normal !important;
+    -webkit-font-smoothing: antialiased !important;
+    -moz-osx-font-smoothing: grayscale !important;
+    text-rendering: optimizeLegibility !important;
+    hyphens: auto !important;
 }
 
 .text-container {
@@ -13,7 +21,14 @@ li {
     text-align: justify !important;
 }
 
-;
+.navbar-brand {
+    font-family: Audiowide;
+}
+
+.navbar-nav {
+    justify-content: flex-end;
+}
+
 @media screen and (max-width: 800px) {
     .text-container {
         --tc-padding: 7vw;

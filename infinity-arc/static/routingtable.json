@@ -1,38 +1,41 @@
-[
-    {
+[{
         "route": "",
-        "display": "Policies, terms and disclosures"
+        "pageTitle": "Policies, terms and disclosures",
+        "caption": "Home"
     },
     {
         "route": "/",
-        "display": "Polcies, terms and disclosures"
+        "pageTitle": "Polcies, terms and disclosures",
+        "caption": "Home"
     },
     {
         "route": "/privacy",
-        "display": "Privacy Policy"
+        "pageTitle": "Privacy Policy",
+        "caption": "Privacy"
     },
     {
         "route": "/terms",
-        "display": "Terms of Use policy"
+        "pageTitle": "Terms of Use policy",
+        "caption": "Terms"
     },
     {
         "route": "/confidentiality",
-        "display": "Confidentiality Policy"
+        "pageTitle": "Confidentiality Policy",
+        "caption": "Confidentiality"
     },
     {
-        "route":"/cookies-policy",
-        "display": "Cookies Policy"
+        "route": "/cookies",
+        "pageTitle": "Cookies Policy",
+        "caption": "Cookies"
     },
     {
         "route": "/disclaimer",
-        "display": "Disclaimer"
+        "pageTitle": "Disclaimer",
+        "caption": "Disclaimer"
     },
     {
-        "route":"/terms-and-conditions",
-        "display": "Terms and Conditions"
-    },
-    {
-        "route":"/terms-of-use",
-        "display": "Terms of Use"
+        "route": "/terms-and-conditions",
+        "pageTitle": "Terms and Conditions",
+        "caption": "T's and C's"
     }
 ]
