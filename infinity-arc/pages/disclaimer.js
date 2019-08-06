@@ -1,9 +1,14 @@
 import Layout from 'layout'
+import { disclaimer } from 'markdown'
+import MarkDownReader from 'static/md';
+import { withRouter } from 'next/router';
 
-const Disclaimer = () =>{
+const Disclaimer = () => {
     return <Layout>
-        <div>Disclaimer</div>
+        <div className="text-container">
+            <MarkDownReader source={disclaimer} />
+        </div>
     </Layout>
 }
 
-export default Disclaimer;
+export default withRouter(Disclaimer);

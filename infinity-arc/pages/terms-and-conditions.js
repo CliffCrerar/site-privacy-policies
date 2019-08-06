@@ -1,9 +1,14 @@
 import Layout from 'layout'
+import { termsAndConditions } from 'markdown'
+import MarkDownReader from 'static/md';
+import { withRouter } from 'next/router';
 
-const TermsConditions = () =>{
+const TermsConditions = () => {
     return <Layout>
-        <div>TermsConditions</div>
+        <div className="text-container">
+            <MarkDownReader source={termsAndConditions} />
+        </div>
     </Layout>
 }
 
-export default TermsConditions;
+export default withRouter(TermsConditions);

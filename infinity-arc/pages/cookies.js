@@ -1,9 +1,14 @@
 import Layout from 'layout'
+import { cookiesPolicy } from 'markdown'
+import MarkDownReader from 'static/md';
+import { withRouter } from 'next/router';
 
-const Cookies = () =>{
+const Cookies = () => {
     return <Layout>
-        <div>Cookies</div>
+        <div className="text-container">
+            <MarkDownReader source={cookiesPolicy} />
+        </div>
     </Layout>
 }
 
-export default Cookies;
+export default withRouter(Cookies);

@@ -21,7 +21,7 @@ const Layout = (props) => {
                     }
             `}
             </style>
-            <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
+            <nav className="navbar navbar-expand-sm navbar-dark bg-dark fixed-top">
                 <Link href="/">
                     <a className="navbar-brand ext">INFINITY ARC</a>
                 </Link>
@@ -33,13 +33,14 @@ const Layout = (props) => {
                     <NavLinks routerTable={routerTable} Link={Link}/>
                 </div>
             </nav>
+            {/* <nav className="navbar"><a className="navbar-brand ext">INFINITY ARC</a></nav> */}
             <div className="page-title">
-                <div className="w-100 p-5 bg-secondary">
-                    <h1>{routerTable.filter(row => row.route === useRouter().route)[0].pageTitle}</h1>
+                <div className="w-100 p-5 mt-5">
+                    <h1 style={{color:'black'}} className="display-2 text-center">{routerTable.filter(row => row.route === useRouter().route)[0].pageTitle}</h1>
                 </div>
             </div>
             <main className="container p-5">
-                <div className="m-5">
+                <div>
                     {props.children}
                 </div>
             </main>

@@ -9,6 +9,7 @@ body {
     -moz-osx-font-smoothing: grayscale !important;
     text-rendering: optimizeLegibility !important;
     hyphens: auto !important;
+    padding-top: 5vh;
 }
 
 .text-container {
