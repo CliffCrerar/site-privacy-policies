@@ -36,7 +36,15 @@ const Layout = (props) => {
             {/* <nav className="navbar"><a className="navbar-brand ext">INFINITY ARC</a></nav> */}
             <div className="page-title">
                 <div className="w-100 p-5 mt-5">
-                    <h1 style={{color:'black'}} className="display-2 text-center">{routerTable.filter(row => row.route === useRouter().route)[0].pageTitle}</h1>
+                    <h1 style={{color:'black'}} className="display-2 text-center">
+                    {routerTable.filter(row => row.route === useRouter().route)[0].pageTitle}
+                    </h1>
+                    <div className="text-center">
+                        <h6>Last updated:</h6>
+                        <h6>
+                        {routerTable.filter(row => row.route === useRouter().route)[0].updated}
+                        </h6>
+                    </div>
                 </div>
             </div>
             <main className="container p-5">

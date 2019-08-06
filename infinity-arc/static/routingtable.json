@@ -26,30 +26,35 @@
         "route": "/confidentiality",
         "pageTitle": "Confidentiality Policy",
         "caption": "Confidentiality",
-        "updated": "6 Aug 2019"
+        "updated": "(DRAFT / NOT FINAL)"
     },
     {
         "route": "/cookies",
         "pageTitle": "Cookies Policy",
         "caption": "Cookies",
-        "updated": "6 Aug 2019"
+        "updated": "(DRAFT / NOT FINAL)"
     },
     {
         "route": "/disclaimer",
         "pageTitle": "Disclaimer",
         "caption": "Disclaimer",
-        "updated": "6 Aug 2019"
+        "updated": "(DRAFT / NOT FINAL)"
     },
     {
         "route": "/terms-and-conditions",
         "pageTitle": "Terms and Conditions",
         "caption": "T's and C's",
-        "updated": "6 Aug 2019"
+        "updated": "(DRAFT / NOT FINAL)"
     },
     {
         "route": "/code-of-conduct",
         "pageTitle": "Code of Conduct",
         "caption": "Conduct",
-        "updated": "6 Aug 2019"
+        "updated": "(DRAFT / NOT FINAL)"
+    }, {
+        "route": "/404",
+        "pageTitle": "404",
+        "caption": "",
+        "updated": ""
     }
 ]

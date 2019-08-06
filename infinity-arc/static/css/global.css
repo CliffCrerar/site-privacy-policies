@@ -12,6 +12,15 @@ body {
     padding-top: 5vh;
 }
 
+blockquote {
+    border-left: 3px solid grey !important;
+    padding: 10px 20px 10px 30px;
+    background: rgb(189, 189, 189);
+    color: rgb(61, 61, 61);
+    border-radius: 3px;
+    font-size: 1.2em;
+}
+
 .text-container {
     --tc-padding: 10vw;
     padding: 0 var(--tc-padding) 0 var(--tc-padding) !important;

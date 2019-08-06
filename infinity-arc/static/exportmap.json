@@ -1,0 +1,12 @@
+{
+    "": { "page": "" },
+    "/": { "page": "/" },
+    "/privacy": { "page": "/privacy" },
+    "/terms": { "page": "/terms" },
+    "/confidentiality": { "page": "/confidentiality" },
+    "/cookies": { "page": "/cookies" },
+    "/disclaimer": { "page": "/disclaimer" },
+    "/terms-and-conditions": { "page": "/terms-and-conditions" },
+    "/code-of-conduct": { "page": "/code-of-conduct" },
+    "/404": { "page": "/404" }
+}
