@@ -1,1 +1,0 @@
-# Infinity Arc Privacy policies
