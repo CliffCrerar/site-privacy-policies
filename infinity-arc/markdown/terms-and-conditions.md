@@ -1,9 +1,3 @@
-
-Terms and Conditions ("Terms")  
-==============================
-
-Last updated: August 03, 2019
-
 Please read these Terms and Conditions ("Terms", "Terms and Conditions")
 carefully before using the www.infinityarc.net website (the "Service")
 operated by Infinity Arc ("us", "we", or "our").
@@ -17,8 +11,9 @@ disagree with any part of the terms then you may not access the Service. The
 Terms and Conditions agreement for Infinity Arc has been created with the help
 of [TermsFeed](https://www.termsfeed.com/).
 
-Accounts  
---------
+## Accounts  
+
+---
 
 When you create an account with us, you must provide us information that is
 accurate, complete, and current at all times. Failure to do so constitutes a
@@ -33,8 +28,9 @@ You agree not to disclose your password to any third party. You must notify us
 immediately upon becoming aware of any breach of security or unauthorized use
 of your account.
 
-Links To Other Web Sites  
-------------------------
+## Links To Other Web Sites 
+
+---
 
 Our Service may contain links to third-party web sites or services that are
 not owned or controlled by Infinity Arc.
@@ -50,8 +46,9 @@ services.
 We strongly advise you to read the terms and conditions and privacy policies
 of any third-party web sites or services that you visit.
 
-Termination  
------------
+## Termination  
+
+---
 
 We may terminate or suspend access to our Service immediately, without prior
 notice or liability, for any reason whatsoever, including without limitation
@@ -72,8 +69,9 @@ All provisions of the Terms which by their nature should survive termination
 shall survive termination, including, without limitation, ownership
 provisions, warranty disclaimers, indemnity and limitations of liability.
 
-Governing Law  
--------------
+## Governing Law  
+
+---
 
 These Terms shall be governed and construed in accordance with the laws of
 South Africa, without regard to its conflict of law provisions.
@@ -85,8 +83,9 @@ Terms will remain in effect. These Terms constitute the entire agreement
 between us regarding our Service, and supersede and replace any prior
 agreements we might have between us regarding the Service.
 
-Changes  
--------
+## Changes  
+
+---
 
 We reserve the right, at our sole discretion, to modify or replace these Terms
 at any time. If a revision is material we will try to provide at least 15 days
@@ -97,8 +96,9 @@ By continuing to access or use our Service after those revisions become
 effective, you agree to be bound by the revised terms. If you do not agree to
 the new terms, please stop using the Service.
 
-Contact Us  
-----------
+## Contact Us
 
-If you have any questions about these Terms, please contact us.
+---
+
+If you have any questions about these Terms, please contact us at [info@infinityarc.net](mailto:info@infinityarc.net)
 

@@ -1,8 +1,3 @@
-Terms of Use ("Terms")  
-======================
-
-Last updated: August 03, 2019
-
 Please read these Terms of Use ("Terms", "Terms of Use") carefully before
 using the www.infinityarc.net website (the "Service") operated by
 infinityarc.net ("us", "we", or "our").
@@ -16,8 +11,7 @@ disagree with any part of the terms then you may not access the Service. The
 Terms of Use agreement for infinityarc.net has been created with the help of
 [TermsFeed](https://www.termsfeed.com/).
 
-Links To Other Web Sites  
-------------------------
+## Links To Other Web Sites  
 
 Our Service may contain links to third-party web sites or services that are
 not owned or controlled by infinityarc.net.
@@ -33,8 +27,7 @@ services.
 We strongly advise you to read the terms and conditions and privacy policies
 of any third-party web sites or services that you visit.
 
-Governing Law  
--------------
+## Governing Law  
 
 These Terms shall be governed and construed in accordance with the laws of
 South Africa, without regard to its conflict of law provisions.
@@ -46,8 +39,7 @@ Terms will remain in effect. These Terms constitute the entire agreement
 between us regarding our Service, and supersede and replace any prior
 agreements we might have between us regarding the Service.
 
-Changes  
--------
+## Changes  
 
 We reserve the right, at our sole discretion, to modify or replace these Terms
 at any time. If a revision is material we will try to provide at least 15 days
@@ -58,8 +50,7 @@ By continuing to access or use our Service after those revisions become
 effective, you agree to be bound by the revised terms. If you do not agree to
 the new terms, please stop using the Service.
 
-Contact Us  
-----------
+## Contact Us  
 
-If you have any questions about these Terms, please contact us.
+If you have any questions about these Terms, please contact us at [info@infinityarc.net](mailto:info@infinityarc.net)
 

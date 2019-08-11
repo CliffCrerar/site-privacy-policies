@@ -40,7 +40,7 @@ const Layout = (props) => {
                     {routerTable.filter(row => row.route === useRouter().route)[0].pageTitle}
                     </h1>
                     <div className="text-center">
-                        <h6>Last updated:</h6>
+                        <h6 hidden={(useRouter().route === '' || useRouter().route === '/')}>Last updated:</h6>
                         <h6>
                         {routerTable.filter(row => row.route === useRouter().route)[0].updated}
                         </h6>

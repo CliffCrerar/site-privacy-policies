@@ -1,10 +1,14 @@
 # Introduction
 
+---
+
 It is Infinity Arc's policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to infinityarc.net (hereinafter, "us", "we", or "infinityarc.net"). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
 
 This Privacy Policy, together with the Terms and conditions posted on our Website, set forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
 
 ## Web visitors
+
+---
 
 Like most website operators, Infinity Arc collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Infinity Arc's purpose in collecting non-personally identifying information is to better understand how Infinity Arc's visitors use its website. From time to time, Infinity Arc may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
@@ -12,11 +16,15 @@ Infinity Arc also collects potentially personally-identifying information like I
 
 ## Information Collection And Use
 
+---
+
 Certain visitors to Infinity Arc's websites choose to interact with Infinity Arc in ways that require Infinity Arc to gather personally-identifying information. The amount and type of information that Infinity Arc gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at http://infinityarc.net to provide a username and email address.
 
 # Types of Data Collected
 
 ## Personal Data
+
+---
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
@@ -26,9 +34,13 @@ While using our Service, we may ask you to provide us with certain personally id
 
 ## Usage Data
 
+---
+
 We may also collect information on how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
 ## Tracking & Cookies Data
+
+---
 
 To enrich and perfect your online experience, Infinity Arc uses "Cookies", similar technologies and services provided by others to display personalized content, appropriate advertising and store your preferences on your computer.
 A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Infinity Arc uses cookies to help Infinity Arc identify and track visitors, their usage of http://infinityarc.net, and their website access preferences. Infinity Arc visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Infinity Arc's websites, with the drawback that certain features of Infinity Arc's websites may not function properly without the aid of cookies.
@@ -41,6 +53,8 @@ Preference Cookies. We use Preference Cookies to remember your preferences and v
 Security Cookies. We use Security Cookies for security purposes.
 
 ## Use of Data
+
+---
 
 Infinty Arc uses the collected data for various purposes:
 
@@ -62,11 +76,15 @@ Infinty Arc will take all steps reasonably necessary to ensure that your data is
 
 ## Links To External Sites
 
+---
+
 Our Service may contain links to external sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy and terms and conditions of every site you visit.
 
 We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services.
 
 ## Disclosure Of Data Legal Requirements
+
+---
 
 Infinty Arc may disclose your Personal Data in the good faith belief that such action is necessary to:
 
@@ -76,7 +94,9 @@ Infinty Arc may disclose your Personal Data in the good faith belief that such a
 * To protect the personal safety of users of the Service or the public
 * To protect against legal liability
 
-# Protection of Certain Personally-Identifying Information
+## Protection of Certain Personally-Identifying Information
+
+---
 
 Infinity Arc discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that 
 
@@ -89,13 +109,19 @@ If you are a registered user of http://infinityarc.net and have supplied your em
 
 ## Security
 
+---
+
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
 ## Advertisements
 
+---
+
 Ads appearing on our website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Infinity Arc and does not cover the use of cookies by any advertisers.
 
 ## Service Providers
+
+---
 
 We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
 
@@ -104,6 +130,8 @@ These third parties have access to your Personal Data only to perform these task
 # Aggregated Statistics
 
 ## Google Analytics
+
+---
 
 Our website uses Google Analytics, a web analysis service of Google, Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, www.google.com (“Google Analytics” or “Google”). Google Analytics employs cookies that are stored to your computer in order to facilitate an analysis of your use of the site. The information generated by these cookies, such as time, place and frequency of your visits to our site, including your IP address, is transmitted to Google’s location in the US and stored there.
 
@@ -121,15 +149,27 @@ For the cases in which personal data is transferred to the US, Google has self-c
 
 ## Children's Privacy
 
+---
+
 Our Service does not address anyone under the age of 18 ("Children").
 
 We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
 
 ## E-commerce
 
+---
+
 Those who engage in transactions with Infinity Arc – by purchasing Infinity Arc's services or products, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Infinity Arc collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Infinity Arc. Infinity Arc does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ## Changes To This Privacy Policy
 
+---
+
 Although most changes are likely to be minor, Infinity Arc may change its Privacy Policy from time to time, and in Infinity Arc's sole discretion. Infinity Arc encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
+### Contact Us
+
+---
+
+If you have any questions about these Terms, please contact us at [info@infinityarc.net](mailto:info@infinityarc.net).
+ 
