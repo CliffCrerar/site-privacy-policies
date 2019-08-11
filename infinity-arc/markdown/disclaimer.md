@@ -1,4 +1,4 @@
-Disclaimer  
+# Disclaimer  
 ==========
 
 Last updated: August 03, 2019
@@ -21,7 +21,7 @@ Infinityarc Net has been created with the help of
 Infinityarc Net does not warrant that the website is free of viruses or other
 harmful components.
 
-External links disclaimer  
+# External links disclaimer  
 -------------------------
 
 www.infinityarc.net website may contain links to external websites that are
